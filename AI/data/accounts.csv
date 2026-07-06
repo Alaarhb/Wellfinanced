@@ -1,0 +1,351 @@
+account_id,user_id,label,institution,description,currency,current_balance,status,category
+acc_0001,user_0001,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,14264.15,active,checking
+acc_0002,user_0001,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,29680.8,active,savings
+acc_0003,user_0001,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,267.41,active,wallet
+acc_0004,user_0002,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,9113.78,active,checking
+acc_0005,user_0002,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,1858.53,active,wallet
+acc_0006,user_0002,Client Receivables,,Pending payments from clients,EGP,2889.88,active,receivable
+acc_0007,user_0003,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,11375.04,active,checking
+acc_0008,user_0003,Savings Account,CIB,Savings certificate or deposit account,EGP,37803.11,active,savings
+acc_0009,user_0003,Cash on Hand,,Physical cash,EGP,1639.86,active,cash
+acc_0010,user_0003,Client Receivables,,Pending payments from clients,EGP,13439.23,active,receivable
+acc_0011,user_0004,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,2824.22,active,checking
+acc_0012,user_0004,Client Receivables,,Pending payments from clients,USD,3831.36,active,receivable
+acc_0013,user_0005,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,5693.49,active,checking
+acc_0014,user_0005,Savings Account,CIB,Savings certificate or deposit account,EGP,18029.75,active,savings
+acc_0015,user_0005,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,3351.4,active,wallet
+acc_0016,user_0006,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,19228.61,active,checking
+acc_0017,user_0006,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,27372.94,active,savings
+acc_0018,user_0007,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,3643.38,active,checking
+acc_0019,user_0007,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,23119.89,active,savings
+acc_0020,user_0008,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,7695.34,active,checking
+acc_0021,user_0008,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,63885.01,active,savings
+acc_0022,user_0008,Cash on Hand,,Physical cash,EGP,215.46,active,cash
+acc_0023,user_0009,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,6209.19,active,checking
+acc_0024,user_0009,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,9712.56,active,savings
+acc_0025,user_0009,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,1309.66,active,wallet
+acc_0026,user_0009,Investment Account,CI Capital,Stocks or mutual funds,EGP,18407.06,active,investment
+acc_0027,user_0010,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,6022.27,active,checking
+acc_0028,user_0010,Savings Account,CIB,Savings certificate or deposit account,EGP,15204.18,active,savings
+acc_0029,user_0010,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,1611.88,active,wallet
+acc_0030,user_0011,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,10802.97,active,checking
+acc_0031,user_0011,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,28273.91,active,savings
+acc_0032,user_0011,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,2407.07,active,wallet
+acc_0033,user_0012,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,12940.88,active,checking
+acc_0034,user_0012,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,9371.72,active,savings
+acc_0035,user_0012,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,3841.49,active,wallet
+acc_0036,user_0012,Client Receivables,,Pending payments from clients,USD,14178.41,active,receivable
+acc_0037,user_0013,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,9098.77,active,checking
+acc_0038,user_0013,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,3362.02,active,wallet
+acc_0039,user_0013,Investment Account,EFG Hermes,Stocks or mutual funds,EGP,77947.22,active,investment
+acc_0040,user_0013,Client Receivables,,Pending payments from clients,EGP,13016.76,active,receivable
+acc_0041,user_0014,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,10423.81,active,checking
+acc_0042,user_0014,Savings Account,CIB,Savings certificate or deposit account,EGP,21566.19,active,savings
+acc_0043,user_0014,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,1450.34,active,wallet
+acc_0044,user_0015,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,2903.91,active,checking
+acc_0045,user_0015,Savings Account,CIB,Savings certificate or deposit account,EGP,14304.09,active,savings
+acc_0046,user_0015,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,1687.45,active,wallet
+acc_0047,user_0015,Cash on Hand,,Physical cash,EGP,2934.52,active,cash
+acc_0048,user_0015,Client Receivables,,Pending payments from clients,USD,6235.41,active,receivable
+acc_0049,user_0016,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,13279.86,active,checking
+acc_0050,user_0016,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,58306.92,active,savings
+acc_0051,user_0016,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,390.58,active,wallet
+acc_0052,user_0017,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,15541.06,active,checking
+acc_0053,user_0017,Savings Account,CIB,Savings certificate or deposit account,EGP,60867.96,active,savings
+acc_0054,user_0017,Cash on Hand,,Physical cash,EGP,1622.96,active,cash
+acc_0055,user_0018,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,14188.94,active,checking
+acc_0056,user_0018,Savings Account,CIB,Savings certificate or deposit account,EGP,52070.25,active,savings
+acc_0057,user_0018,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,773.4,active,wallet
+acc_0058,user_0019,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,12172.53,active,checking
+acc_0059,user_0019,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,50660.12,active,savings
+acc_0060,user_0019,Cash on Hand,,Physical cash,EGP,2047.96,active,cash
+acc_0061,user_0020,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,6792.19,active,checking
+acc_0062,user_0021,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,3774.59,active,checking
+acc_0063,user_0021,Savings Account,CIB,Savings certificate or deposit account,EGP,24459.72,active,savings
+acc_0064,user_0021,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,1170.07,active,wallet
+acc_0065,user_0021,Cash on Hand,,Physical cash,EGP,652.56,active,cash
+acc_0066,user_0022,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,4779.41,active,checking
+acc_0067,user_0022,Cash on Hand,,Physical cash,EGP,1055.02,active,cash
+acc_0068,user_0023,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,7173.66,active,checking
+acc_0069,user_0023,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,38013.39,active,savings
+acc_0070,user_0023,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,2971.95,active,wallet
+acc_0071,user_0024,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,15861.74,active,checking
+acc_0072,user_0024,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,26036.95,active,savings
+acc_0073,user_0025,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,9050.71,active,checking
+acc_0074,user_0025,Savings Account,CIB,Savings certificate or deposit account,EGP,35468.67,active,savings
+acc_0075,user_0025,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,2160.98,active,wallet
+acc_0076,user_0025,Client Receivables,,Pending payments from clients,USD,15966.91,active,receivable
+acc_0077,user_0026,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,2893.04,active,checking
+acc_0078,user_0027,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,5857.06,active,checking
+acc_0079,user_0027,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,8077.85,active,savings
+acc_0080,user_0027,Investment Account,EFG Hermes,Stocks or mutual funds,EGP,17000.92,active,investment
+acc_0081,user_0028,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,13186.71,active,checking
+acc_0082,user_0028,Savings Account,CIB,Savings certificate or deposit account,EGP,67246.42,active,savings
+acc_0083,user_0028,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,1323.23,active,wallet
+acc_0084,user_0028,Client Receivables,,Pending payments from clients,USD,6741.02,active,receivable
+acc_0085,user_0029,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,11666.19,active,checking
+acc_0086,user_0029,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,85789.02,active,savings
+acc_0087,user_0030,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,3679.65,active,checking
+acc_0088,user_0030,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,57889.51,active,savings
+acc_0089,user_0030,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,2377.31,active,wallet
+acc_0090,user_0031,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,6883.42,active,checking
+acc_0091,user_0031,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,32039.17,active,savings
+acc_0092,user_0031,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,1912.99,active,wallet
+acc_0093,user_0031,Investment Account,EFG Hermes,Stocks or mutual funds,EGP,58807.9,active,investment
+acc_0094,user_0032,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,9878.35,active,checking
+acc_0095,user_0032,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,11578.55,active,savings
+acc_0096,user_0032,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,1921.11,active,wallet
+acc_0097,user_0033,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,6279.76,active,checking
+acc_0098,user_0033,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,3335.12,active,savings
+acc_0099,user_0033,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,215.82,active,wallet
+acc_0100,user_0033,Client Receivables,,Pending payments from clients,USD,1802.27,active,receivable
+acc_0101,user_0034,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,5775.39,active,checking
+acc_0102,user_0034,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,38046.15,active,savings
+acc_0103,user_0034,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,1851.35,active,wallet
+acc_0104,user_0035,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,3585.71,active,checking
+acc_0105,user_0035,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,5946.0,active,savings
+acc_0106,user_0035,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,193.0,active,wallet
+acc_0107,user_0035,Cash on Hand,,Physical cash,EGP,2595.29,active,cash
+acc_0108,user_0036,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,20495.91,active,checking
+acc_0109,user_0036,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,2302.79,active,wallet
+acc_0110,user_0037,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,7401.29,active,checking
+acc_0111,user_0037,Savings Account,CIB,Savings certificate or deposit account,EGP,36190.88,active,savings
+acc_0112,user_0037,Investment Account,CIB Wealth,Stocks or mutual funds,EGP,120852.35,active,investment
+acc_0113,user_0038,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,5669.74,active,checking
+acc_0114,user_0038,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,1065.77,active,wallet
+acc_0115,user_0038,Cash on Hand,,Physical cash,EGP,2471.37,active,cash
+acc_0116,user_0039,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,15854.0,active,checking
+acc_0117,user_0039,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,783.02,active,wallet
+acc_0118,user_0039,Investment Account,Beltone,Stocks or mutual funds,EGP,71430.35,active,investment
+acc_0119,user_0039,Client Receivables,,Pending payments from clients,USD,5675.51,active,receivable
+acc_0120,user_0040,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,1364.7,active,checking
+acc_0121,user_0040,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,1376.94,active,wallet
+acc_0122,user_0040,Client Receivables,,Pending payments from clients,EGP,6440.92,active,receivable
+acc_0123,user_0041,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,11255.13,active,checking
+acc_0124,user_0041,Savings Account,CIB,Savings certificate or deposit account,EGP,59274.2,active,savings
+acc_0125,user_0041,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,1009.54,active,wallet
+acc_0126,user_0042,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,12728.13,active,checking
+acc_0127,user_0042,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,23401.38,active,savings
+acc_0128,user_0042,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,2634.69,active,wallet
+acc_0129,user_0043,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,1408.48,active,checking
+acc_0130,user_0044,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,16519.17,active,checking
+acc_0131,user_0044,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,12565.07,active,savings
+acc_0132,user_0044,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,3589.9,active,wallet
+acc_0133,user_0045,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,22614.15,active,checking
+acc_0134,user_0045,Cash on Hand,,Physical cash,EGP,2263.7,active,cash
+acc_0135,user_0046,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,15184.41,active,checking
+acc_0136,user_0047,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,11393.73,active,checking
+acc_0137,user_0047,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,23510.42,active,savings
+acc_0138,user_0047,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,1073.99,active,wallet
+acc_0139,user_0048,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,12041.17,active,checking
+acc_0140,user_0048,Savings Account,CIB,Savings certificate or deposit account,EGP,30907.96,active,savings
+acc_0141,user_0048,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,1651.72,active,wallet
+acc_0142,user_0048,Investment Account,CI Capital,Stocks or mutual funds,EGP,39816.71,active,investment
+acc_0143,user_0049,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,12501.17,active,checking
+acc_0144,user_0049,Savings Account,CIB,Savings certificate or deposit account,EGP,34774.49,active,savings
+acc_0145,user_0050,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,5138.1,active,checking
+acc_0146,user_0050,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,82277.69,active,savings
+acc_0147,user_0050,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,3005.68,active,wallet
+acc_0148,user_0050,Investment Account,EFG Hermes,Stocks or mutual funds,EGP,158805.49,active,investment
+acc_0149,user_0050,Client Receivables,,Pending payments from clients,EGP,15119.6,active,receivable
+acc_0150,user_0051,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,8588.06,active,checking
+acc_0151,user_0051,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,16034.1,active,savings
+acc_0152,user_0052,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,7623.75,active,checking
+acc_0153,user_0053,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,15295.01,active,checking
+acc_0154,user_0053,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,22143.03,active,savings
+acc_0155,user_0053,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,4378.49,active,wallet
+acc_0156,user_0054,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,16136.71,active,checking
+acc_0157,user_0054,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,72758.2,active,savings
+acc_0158,user_0055,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,5006.51,active,checking
+acc_0159,user_0055,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,234.29,active,wallet
+acc_0160,user_0056,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,8451.89,active,checking
+acc_0161,user_0056,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,58209.18,active,savings
+acc_0162,user_0057,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,2327.52,active,checking
+acc_0163,user_0057,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,31785.01,active,savings
+acc_0164,user_0058,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,18080.96,active,checking
+acc_0165,user_0058,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,16985.84,active,savings
+acc_0166,user_0058,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,2565.68,active,wallet
+acc_0167,user_0058,Cash on Hand,,Physical cash,EGP,2080.76,active,cash
+acc_0168,user_0059,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,4921.93,active,checking
+acc_0169,user_0059,Savings Account,CIB,Savings certificate or deposit account,EGP,15517.98,active,savings
+acc_0170,user_0060,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,13000.31,active,checking
+acc_0171,user_0060,Savings Account,CIB,Savings certificate or deposit account,EGP,50145.61,active,savings
+acc_0172,user_0060,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,3294.36,active,wallet
+acc_0173,user_0061,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,14294.92,active,checking
+acc_0174,user_0061,Savings Account,CIB,Savings certificate or deposit account,EGP,10579.4,active,savings
+acc_0175,user_0062,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,20933.43,active,checking
+acc_0176,user_0062,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,4027.23,active,wallet
+acc_0177,user_0062,Investment Account,EFG Hermes,Stocks or mutual funds,EGP,140436.73,active,investment
+acc_0178,user_0063,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,5261.52,active,checking
+acc_0179,user_0063,Savings Account,CIB,Savings certificate or deposit account,EGP,7399.71,active,savings
+acc_0180,user_0063,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,2065.47,active,wallet
+acc_0181,user_0064,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,4232.24,active,checking
+acc_0182,user_0064,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,1944.49,active,wallet
+acc_0183,user_0065,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,8100.84,active,checking
+acc_0184,user_0065,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,40955.64,active,savings
+acc_0185,user_0065,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,994.84,active,wallet
+acc_0186,user_0066,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,4510.74,active,checking
+acc_0187,user_0066,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,9981.97,active,savings
+acc_0188,user_0066,Investment Account,Beltone,Stocks or mutual funds,EGP,119152.33,active,investment
+acc_0189,user_0066,Client Receivables,,Pending payments from clients,EGP,4124.67,active,receivable
+acc_0190,user_0067,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,7915.37,active,checking
+acc_0191,user_0067,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,24510.1,active,savings
+acc_0192,user_0067,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,353.86,active,wallet
+acc_0193,user_0068,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,4369.61,active,checking
+acc_0194,user_0068,Savings Account,CIB,Savings certificate or deposit account,EGP,28371.19,active,savings
+acc_0195,user_0068,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,1600.76,active,wallet
+acc_0196,user_0068,Cash on Hand,,Physical cash,EGP,1101.82,active,cash
+acc_0197,user_0069,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,6851.23,active,checking
+acc_0198,user_0069,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,47130.6,active,savings
+acc_0199,user_0069,Investment Account,CI Capital,Stocks or mutual funds,EGP,97565.65,active,investment
+acc_0200,user_0070,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,10535.9,active,checking
+acc_0201,user_0070,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,22025.07,active,savings
+acc_0202,user_0070,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,910.45,active,wallet
+acc_0203,user_0071,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,5167.03,active,checking
+acc_0204,user_0071,Savings Account,CIB,Savings certificate or deposit account,EGP,41012.77,active,savings
+acc_0205,user_0071,Cash on Hand,,Physical cash,EGP,2456.42,active,cash
+acc_0206,user_0071,Investment Account,EFG Hermes,Stocks or mutual funds,EGP,30011.12,active,investment
+acc_0207,user_0072,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,20660.57,active,checking
+acc_0208,user_0072,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,40460.91,active,savings
+acc_0209,user_0072,Cash on Hand,,Physical cash,EGP,2930.19,active,cash
+acc_0210,user_0073,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,6668.01,active,checking
+acc_0211,user_0073,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,9218.19,active,savings
+acc_0212,user_0073,Cash on Hand,,Physical cash,EGP,1106.3,active,cash
+acc_0213,user_0074,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,11164.34,active,checking
+acc_0214,user_0074,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,20298.15,active,savings
+acc_0215,user_0074,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,3556.53,active,wallet
+acc_0216,user_0075,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,9694.06,active,checking
+acc_0217,user_0075,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,18769.27,active,savings
+acc_0218,user_0075,Cash on Hand,,Physical cash,EGP,2108.21,active,cash
+acc_0219,user_0076,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,8029.25,active,checking
+acc_0220,user_0076,Investment Account,CIB Wealth,Stocks or mutual funds,EGP,111935.14,active,investment
+acc_0221,user_0077,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,1961.35,active,checking
+acc_0222,user_0077,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,3782.62,active,savings
+acc_0223,user_0078,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,4809.84,active,checking
+acc_0224,user_0079,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,15828.91,active,checking
+acc_0225,user_0079,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,63642.89,active,savings
+acc_0226,user_0079,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,3307.75,active,wallet
+acc_0227,user_0080,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,12233.44,active,checking
+acc_0228,user_0080,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,1821.46,active,wallet
+acc_0229,user_0081,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,6925.31,active,checking
+acc_0230,user_0081,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,24374.6,active,savings
+acc_0231,user_0081,Cash on Hand,,Physical cash,EGP,1072.82,active,cash
+acc_0232,user_0082,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,10836.35,active,checking
+acc_0233,user_0082,Savings Account,CIB,Savings certificate or deposit account,EGP,42959.99,active,savings
+acc_0234,user_0082,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,474.73,active,wallet
+acc_0235,user_0082,Investment Account,CIB Wealth,Stocks or mutual funds,EGP,59488.94,active,investment
+acc_0236,user_0083,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,5092.39,active,checking
+acc_0237,user_0083,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,3744.96,active,savings
+acc_0238,user_0083,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,1763.73,active,wallet
+acc_0239,user_0083,Cash on Hand,,Physical cash,EGP,1167.95,active,cash
+acc_0240,user_0083,Investment Account,Beltone,Stocks or mutual funds,EGP,40853.03,active,investment
+acc_0241,user_0084,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,15611.99,active,checking
+acc_0242,user_0084,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,10106.91,active,savings
+acc_0243,user_0084,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,157.49,active,wallet
+acc_0244,user_0085,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,6616.95,active,checking
+acc_0245,user_0085,Savings Account,CIB,Savings certificate or deposit account,EGP,5337.37,active,savings
+acc_0246,user_0085,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,204.98,active,wallet
+acc_0247,user_0085,Cash on Hand,,Physical cash,EGP,491.89,active,cash
+acc_0248,user_0086,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,1693.7,active,checking
+acc_0249,user_0086,Cash on Hand,,Physical cash,EGP,2778.36,active,cash
+acc_0250,user_0087,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,4217.86,active,checking
+acc_0251,user_0087,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,24245.92,active,savings
+acc_0252,user_0087,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,300.99,active,wallet
+acc_0253,user_0088,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,4939.07,active,checking
+acc_0254,user_0088,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,877.62,active,wallet
+acc_0255,user_0088,Cash on Hand,,Physical cash,EGP,693.88,active,cash
+acc_0256,user_0089,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,4685.35,active,checking
+acc_0257,user_0089,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,9183.66,active,savings
+acc_0258,user_0089,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,462.3,active,wallet
+acc_0259,user_0089,Investment Account,Beltone,Stocks or mutual funds,EGP,56313.95,active,investment
+acc_0260,user_0090,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,7721.84,active,checking
+acc_0261,user_0090,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,49310.23,active,savings
+acc_0262,user_0090,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,1471.53,active,wallet
+acc_0263,user_0091,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,2915.41,active,checking
+acc_0264,user_0091,Savings Account,CIB,Savings certificate or deposit account,EGP,29231.31,active,savings
+acc_0265,user_0091,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,1374.02,active,wallet
+acc_0266,user_0091,Investment Account,EFG Hermes,Stocks or mutual funds,EGP,41621.7,active,investment
+acc_0267,user_0091,Client Receivables,,Pending payments from clients,EGP,5523.01,active,receivable
+acc_0268,user_0092,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,22385.17,active,checking
+acc_0269,user_0092,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,6795.21,active,savings
+acc_0270,user_0092,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,4279.98,active,wallet
+acc_0271,user_0093,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,13985.95,active,checking
+acc_0272,user_0093,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,64371.33,active,savings
+acc_0273,user_0093,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,2801.28,active,wallet
+acc_0274,user_0094,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,16735.29,active,checking
+acc_0275,user_0094,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,1085.21,active,wallet
+acc_0276,user_0094,Investment Account,CI Capital,Stocks or mutual funds,EGP,80060.72,active,investment
+acc_0277,user_0095,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,7107.55,active,checking
+acc_0278,user_0095,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,22951.09,active,savings
+acc_0279,user_0096,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,16798.61,active,checking
+acc_0280,user_0096,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,25431.04,active,savings
+acc_0281,user_0096,Cash on Hand,,Physical cash,EGP,2928.73,active,cash
+acc_0282,user_0096,Client Receivables,,Pending payments from clients,USD,8210.24,active,receivable
+acc_0283,user_0097,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,4934.74,active,checking
+acc_0284,user_0097,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,16475.18,active,savings
+acc_0285,user_0097,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,471.86,active,wallet
+acc_0286,user_0097,Client Receivables,,Pending payments from clients,EGP,2068.25,active,receivable
+acc_0287,user_0098,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,3789.57,active,checking
+acc_0288,user_0098,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,2822.25,active,wallet
+acc_0289,user_0098,Cash on Hand,,Physical cash,EGP,1334.69,active,cash
+acc_0290,user_0099,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,2336.53,active,checking
+acc_0291,user_0099,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,18009.08,active,savings
+acc_0292,user_0099,Cash on Hand,,Physical cash,EGP,1972.67,active,cash
+acc_0293,user_0100,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,4980.39,active,checking
+acc_0294,user_0100,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,14946.83,active,savings
+acc_0295,user_0100,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,1531.03,active,wallet
+acc_0296,user_0100,Cash on Hand,,Physical cash,EGP,1888.83,active,cash
+acc_0297,user_0101,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,10623.4,active,checking
+acc_0298,user_0101,Savings Account,CIB,Savings certificate or deposit account,EGP,49835.58,active,savings
+acc_0299,user_0101,Client Receivables,,Pending payments from clients,USD,5003.89,active,receivable
+acc_0300,user_0102,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,6560.11,active,checking
+acc_0301,user_0102,Savings Account,CIB,Savings certificate or deposit account,EGP,30197.89,active,savings
+acc_0302,user_0102,Cash on Hand,,Physical cash,EGP,1945.33,active,cash
+acc_0303,user_0103,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,4302.42,active,checking
+acc_0304,user_0103,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,14058.15,active,savings
+acc_0305,user_0103,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,1443.49,active,wallet
+acc_0306,user_0104,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,3523.84,active,checking
+acc_0307,user_0105,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,4584.77,active,checking
+acc_0308,user_0106,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,17996.49,active,checking
+acc_0309,user_0106,Savings Account,CIB,Savings certificate or deposit account,EGP,62213.6,active,savings
+acc_0310,user_0106,Cash on Hand,,Physical cash,EGP,2175.61,active,cash
+acc_0311,user_0107,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,11599.85,active,checking
+acc_0312,user_0107,Savings Account,CIB,Savings certificate or deposit account,EGP,49568.71,active,savings
+acc_0313,user_0107,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,587.05,active,wallet
+acc_0314,user_0108,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,8523.7,active,checking
+acc_0315,user_0108,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,21068.63,active,savings
+acc_0316,user_0109,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,15937.72,active,checking
+acc_0317,user_0109,Savings Account,CIB,Savings certificate or deposit account,EGP,30744.12,active,savings
+acc_0318,user_0109,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,2392.95,active,wallet
+acc_0319,user_0110,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,13680.16,active,checking
+acc_0320,user_0110,Savings Account,CIB,Savings certificate or deposit account,EGP,32772.97,active,savings
+acc_0321,user_0110,Cash on Hand,,Physical cash,EGP,719.32,active,cash
+acc_0322,user_0111,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,10222.86,active,checking
+acc_0323,user_0111,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,4768.74,active,savings
+acc_0324,user_0111,Etisalat Cash,Mobile Wallet,Mobile money wallet,EGP,1322.57,active,wallet
+acc_0325,user_0112,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,8018.39,active,checking
+acc_0326,user_0112,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,17662.01,active,savings
+acc_0327,user_0112,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,1215.23,active,wallet
+acc_0328,user_0113,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,8376.26,active,checking
+acc_0329,user_0113,Savings Account,CIB,Savings certificate or deposit account,EGP,12303.7,active,savings
+acc_0330,user_0113,Cash on Hand,,Physical cash,EGP,2859.89,active,cash
+acc_0331,user_0113,Client Receivables,,Pending payments from clients,USD,7164.14,active,receivable
+acc_0332,user_0114,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,16002.45,active,checking
+acc_0333,user_0114,Cash on Hand,,Physical cash,EGP,1324.42,active,cash
+acc_0334,user_0115,Main Bank Account,CIB,Primary checking account for daily transactions,EGP,10303.69,active,checking
+acc_0335,user_0115,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,24394.65,active,savings
+acc_0336,user_0115,Fawry Wallet,Mobile Wallet,Mobile money wallet,EGP,2834.74,active,wallet
+acc_0337,user_0115,Investment Account,CI Capital,Stocks or mutual funds,EGP,34724.44,active,investment
+acc_0338,user_0116,Main Bank Account,QNB,Primary checking account for daily transactions,EGP,22279.07,active,checking
+acc_0339,user_0116,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,39068.61,active,savings
+acc_0340,user_0116,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,773.43,active,wallet
+acc_0341,user_0117,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,4414.95,active,checking
+acc_0342,user_0117,Savings Account,Banque Misr,Savings certificate or deposit account,EGP,10816.06,active,savings
+acc_0343,user_0117,Orange Cash,Mobile Wallet,Mobile money wallet,EGP,265.24,active,wallet
+acc_0344,user_0118,Main Bank Account,National Bank of Egypt,Primary checking account for daily transactions,EGP,4055.89,active,checking
+acc_0345,user_0118,Cash on Hand,,Physical cash,EGP,907.42,active,cash
+acc_0346,user_0118,Investment Account,CI Capital,Stocks or mutual funds,EGP,45175.01,active,investment
+acc_0347,user_0119,Main Bank Account,HSBC Egypt,Primary checking account for daily transactions,EGP,3351.6,active,checking
+acc_0348,user_0119,Savings Account,National Bank of Egypt,Savings certificate or deposit account,EGP,33909.22,active,savings
+acc_0349,user_0119,Vodafone Cash,Mobile Wallet,Mobile money wallet,EGP,1078.67,active,wallet
+acc_0350,user_0120,Main Bank Account,Banque Misr,Primary checking account for daily transactions,EGP,11507.09,active,checking

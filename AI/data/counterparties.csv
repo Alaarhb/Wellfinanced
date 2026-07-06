@@ -1,0 +1,31 @@
+counterparty_id,label,description,category
+cp_0001,Upwork,Global freelancing platform,company
+cp_0002,Mostaql,Arabic freelancing platform,company
+cp_0003,Khamsat,Arabic micro-services platform,company
+cp_0004,Fiverr,Global gig marketplace,company
+cp_0005,Freelancer.com,Global freelancing platform,company
+cp_0006,Direct Client,Direct business client,person
+cp_0007,Landlord,Property owner / rent payment,person
+cp_0008,Vodafone,Telecom provider,service
+cp_0009,WE Internet,Internet service provider,service
+cp_0010,Orange,Telecom provider,service
+cp_0011,Cairo Electricity,Electricity utility,service
+cp_0012,Carrefour,Grocery and retail store,company
+cp_0013,Uber Egypt,Transportation service,service
+cp_0014,Netflix,Streaming subscription,service
+cp_0015,Spotify,Music streaming subscription,service
+cp_0016,Adobe Creative Cloud,Design software subscription,service
+cp_0017,GitHub Pro,Developer tools subscription,service
+cp_0018,Pharmacy,Medical and pharmacy,service
+cp_0019,Udemy,Online education platform,service
+cp_0020,Coursera,Online education platform,service
+cp_0021,National Bank of Egypt,Major Egyptian bank,company
+cp_0022,Banque Misr,Major Egyptian bank,company
+cp_0023,CIB,Commercial International Bank,company
+cp_0024,QNB,Qatar National Bank Egypt,company
+cp_0025,Valu,Buy Now Pay Later service,company
+cp_0026,Contact,Consumer finance company,company
+cp_0027,Tax Authority,Egyptian Tax Authority,government
+cp_0028,Social Insurance,Social insurance contributions,government
+cp_0029,Family Support,Family member financial support,person
+cp_0030,Resala Charity,Egyptian charity organization,ngo

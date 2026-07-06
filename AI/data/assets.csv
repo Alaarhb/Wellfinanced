@@ -1,0 +1,101 @@
+asset_id,user_id,label,description,estimated_value,category,status
+asset_0001,user_0001,MacBook Pro,Work laptop for freelancing,28360.36,property,active
+asset_0002,user_0001,iPhone 15 Pro,Personal smartphone,33165.21,property,active
+asset_0003,user_0002,Lenovo ThinkPad,Work laptop for freelancing,53452.61,property,active
+asset_0004,user_0002,Old Laptop,Previously used work laptop — sold,7099.73,property,disposed_retired
+asset_0005,user_0003,Dell XPS,Work laptop for freelancing,47718.68,property,active
+asset_0006,user_0003,Old Laptop,Previously used work laptop — sold,4435.19,property,disposed_retired
+asset_0007,user_0008,iPhone 14,Personal smartphone,14155.97,property,active
+asset_0008,user_0009,Google Pixel 8,Personal smartphone,9692.46,property,active
+asset_0009,user_0011,Lenovo ThinkPad,Work laptop for freelancing,47860.52,property,active
+asset_0010,user_0012,Dell XPS,Work laptop for freelancing,25945.07,property,active
+asset_0011,user_0013,ASUS ROG,Work laptop for freelancing,42747.29,property,active
+asset_0012,user_0013,Samsung Galaxy S24,Personal smartphone,36594.44,property,active
+asset_0013,user_0014,EGX30 ETF,Stock market investment,81017.7,stocks,active
+asset_0014,user_0017,MacBook Pro,Work laptop for freelancing,43596.96,property,active
+asset_0015,user_0018,MacBook Pro,Work laptop for freelancing,49744.93,property,active
+asset_0016,user_0019,Old Laptop,Previously used work laptop — sold,7604.24,property,disposed_retired
+asset_0017,user_0021,HP Spectre,Work laptop for freelancing,24901.6,property,active
+asset_0018,user_0023,iPhone 15 Pro,Personal smartphone,10680.53,property,active
+asset_0019,user_0025,Samsung Galaxy S24,Personal smartphone,35718.98,property,active
+asset_0020,user_0026,Samsung Galaxy S24,Personal smartphone,30871.76,property,active
+asset_0021,user_0027,HP Spectre,Work laptop for freelancing,17896.65,property,active
+asset_0022,user_0029,Dell XPS,Work laptop for freelancing,47023.47,property,active
+asset_0023,user_0029,iPhone 14,Personal smartphone,32804.26,property,active
+asset_0024,user_0031,HP Spectre,Work laptop for freelancing,49838.76,property,active
+asset_0025,user_0032,Google Pixel 8,Personal smartphone,28461.05,property,active
+asset_0026,user_0033,Google Pixel 8,Personal smartphone,35068.81,property,active
+asset_0027,user_0033,CIB Shares,Stock market investment,20212.73,stocks,active
+asset_0028,user_0035,Old Laptop,Previously used work laptop — sold,3808.36,property,disposed_retired
+asset_0029,user_0036,Lenovo ThinkPad,Work laptop for freelancing,24138.19,property,active
+asset_0030,user_0037,Lenovo ThinkPad,Work laptop for freelancing,23822.44,property,active
+asset_0031,user_0038,ASUS ROG,Work laptop for freelancing,44086.76,property,active
+asset_0032,user_0039,HP Spectre,Work laptop for freelancing,35193.8,property,active
+asset_0033,user_0040,Dell XPS,Work laptop for freelancing,34466.76,property,active
+asset_0034,user_0041,Lenovo ThinkPad,Work laptop for freelancing,26354.18,property,active
+asset_0035,user_0042,Samsung Galaxy S24,Personal smartphone,34485.52,property,active
+asset_0036,user_0043,Dell XPS,Work laptop for freelancing,22239.08,property,active
+asset_0037,user_0045,iPhone 14,Personal smartphone,19549.48,property,active
+asset_0038,user_0046,MacBook Pro,Work laptop for freelancing,45938.93,property,active
+asset_0039,user_0046,iPhone 15 Pro,Personal smartphone,16770.03,property,active
+asset_0040,user_0048,ASUS ROG,Work laptop for freelancing,24948.57,property,active
+asset_0041,user_0049,MacBook Pro,Work laptop for freelancing,39221.53,property,active
+asset_0042,user_0051,Samsung Galaxy S24,Personal smartphone,10112.21,property,active
+asset_0043,user_0052,Lenovo ThinkPad,Work laptop for freelancing,33087.96,property,active
+asset_0044,user_0053,Dell XPS,Work laptop for freelancing,30895.16,property,active
+asset_0045,user_0053,Old Laptop,Previously used work laptop — sold,4615.65,property,disposed_retired
+asset_0046,user_0055,HP Spectre,Work laptop for freelancing,20029.66,property,active
+asset_0047,user_0055,Google Pixel 8,Personal smartphone,34073.19,property,active
+asset_0048,user_0056,Google Pixel 8,Personal smartphone,13778.06,property,active
+asset_0049,user_0057,MacBook Pro,Work laptop for freelancing,48524.61,property,active
+asset_0050,user_0058,Old Laptop,Previously used work laptop — sold,7654.74,property,disposed_retired
+asset_0051,user_0060,ASUS ROG,Work laptop for freelancing,38087.41,property,active
+asset_0052,user_0061,MacBook Pro,Work laptop for freelancing,31276.32,property,active
+asset_0053,user_0065,MacBook Pro,Work laptop for freelancing,29658.46,property,active
+asset_0054,user_0066,iPhone 15 Pro,Personal smartphone,24443.52,property,active
+asset_0055,user_0066,Vodafone Egypt Shares,Stock market investment,56093.81,stocks,active
+asset_0056,user_0068,CIB Shares,Stock market investment,13338.37,stocks,active
+asset_0057,user_0069,Google Pixel 8,Personal smartphone,30492.49,property,active
+asset_0058,user_0070,Vodafone Egypt Shares,Stock market investment,32288.52,stocks,active
+asset_0059,user_0071,MacBook Pro,Work laptop for freelancing,41187.72,property,active
+asset_0060,user_0072,ASUS ROG,Work laptop for freelancing,39694.07,property,active
+asset_0061,user_0073,CIB Shares,Stock market investment,26811.59,stocks,active
+asset_0062,user_0074,iPhone 14,Personal smartphone,12559.24,property,active
+asset_0063,user_0075,MacBook Pro,Work laptop for freelancing,37692.49,property,active
+asset_0064,user_0076,CIB Shares,Stock market investment,12885.42,stocks,active
+asset_0065,user_0076,Old Laptop,Previously used work laptop — sold,6189.93,property,disposed_retired
+asset_0066,user_0078,MacBook Pro,Work laptop for freelancing,48594.45,property,active
+asset_0067,user_0080,Google Pixel 8,Personal smartphone,13539.05,property,active
+asset_0068,user_0081,HP Spectre,Work laptop for freelancing,49511.88,property,active
+asset_0069,user_0081,iPhone 15 Pro,Personal smartphone,14602.5,property,active
+asset_0070,user_0082,Lenovo ThinkPad,Work laptop for freelancing,24277.88,property,active
+asset_0071,user_0083,iPhone 15 Pro,Personal smartphone,33006.13,property,active
+asset_0072,user_0084,Google Pixel 8,Personal smartphone,12750.59,property,active
+asset_0073,user_0085,Fawry Shares,Stock market investment,22722.82,stocks,active
+asset_0074,user_0089,Dell XPS,Work laptop for freelancing,28320.08,property,active
+asset_0075,user_0092,Dell XPS,Work laptop for freelancing,18867.06,property,active
+asset_0076,user_0094,ASUS ROG,Work laptop for freelancing,44487.21,property,active
+asset_0077,user_0095,Dell XPS,Work laptop for freelancing,46516.08,property,active
+asset_0078,user_0096,ASUS ROG,Work laptop for freelancing,16446.42,property,active
+asset_0079,user_0097,Lenovo ThinkPad,Work laptop for freelancing,24562.21,property,active
+asset_0080,user_0100,Dell XPS,Work laptop for freelancing,40118.0,property,active
+asset_0081,user_0101,HP Spectre,Work laptop for freelancing,47749.4,property,active
+asset_0082,user_0101,Vodafone Egypt Shares,Stock market investment,69727.4,stocks,active
+asset_0083,user_0104,iPhone 14,Personal smartphone,43253.51,property,active
+asset_0084,user_0105,ASUS ROG,Work laptop for freelancing,16032.48,property,active
+asset_0085,user_0105,Google Pixel 8,Personal smartphone,10958.72,property,active
+asset_0086,user_0107,iPhone 14,Personal smartphone,30924.75,property,active
+asset_0087,user_0108,Lenovo ThinkPad,Work laptop for freelancing,22671.3,property,active
+asset_0088,user_0108,Samsung Galaxy S24,Personal smartphone,44810.05,property,active
+asset_0089,user_0108,Fawry Shares,Stock market investment,15258.15,stocks,active
+asset_0090,user_0109,ASUS ROG,Work laptop for freelancing,19855.4,property,active
+asset_0091,user_0110,HP Spectre,Work laptop for freelancing,40327.59,property,active
+asset_0092,user_0110,iPhone 15 Pro,Personal smartphone,30763.12,property,active
+asset_0093,user_0112,iPhone 14,Personal smartphone,27443.67,property,active
+asset_0094,user_0113,ASUS ROG,Work laptop for freelancing,15441.25,property,active
+asset_0095,user_0113,Old Laptop,Previously used work laptop — sold,4299.07,property,disposed_retired
+asset_0096,user_0114,iPhone 14,Personal smartphone,30901.08,property,active
+asset_0097,user_0115,iPhone 15 Pro,Personal smartphone,43504.34,property,active
+asset_0098,user_0117,Google Pixel 8,Personal smartphone,17008.68,property,active
+asset_0099,user_0119,MacBook Pro,Work laptop for freelancing,41347.69,property,active
+asset_0100,user_0120,Dell XPS,Work laptop for freelancing,16537.05,property,active
