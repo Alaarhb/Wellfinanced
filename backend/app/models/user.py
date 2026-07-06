@@ -4,7 +4,6 @@ from sqlalchemy import Column, String, DateTime, Numeric
 from sqlalchemy.dialects.postgresql import UUID
 from ..database import Base
 
-# دالة لتوليد الـ string UUID المتوافق مع SQLite والـ PostgreSQL
 def generate_uuid():
     return str(uuid.uuid4())
 
