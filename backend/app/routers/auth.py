@@ -15,7 +15,6 @@ from ..security import (
 router = APIRouter(prefix="/api/auth", tags=["Authentication"])
 security_scheme = HTTPBearer()
 
-# دالة مساعدة للحصول على المستخدم الحالي من الـ JWT token
 def get_current_user(
     credentials: HTTPAuthorizationCredentials = Depends(security_scheme),
     db: Session = Depends(get_db)
@@ -36,7 +35,6 @@ def get_current_user(
 
 @router.post("/register", response_model=UserOut, status_code=status.HTTP_201_CREATED)
 def register(user_in: UserCreate, db: Session = Depends(get_db)):
-    # التأكد من أن الإيميل غير مسجل مسبقاً
     existing_user = db.query(User).filter(User.email == user_in.email).first()
     if existing_user:
         raise HTTPException(
@@ -44,7 +42,6 @@ def register(user_in: UserCreate, db: Session = Depends(get_db)):
             detail="Email already registered"
         )
     
-    # هاش الباسورد وحفظ المستخدم
     hashed_password = get_password_hash(user_in.password)
     db_user = User(
         name=user_in.name,
@@ -60,7 +57,6 @@ def register(user_in: UserCreate, db: Session = Depends(get_db)):
 
 @router.post("/login", response_model=Token)
 def login(credentials: UserLogin, db: Session = Depends(get_db)):
-    # البحث عن المستخدم
     user = db.query(User).filter(User.email == credentials.email).first()
     if not user or not verify_password(credentials.password, user.password_hash):
         raise HTTPException(
@@ -68,7 +64,6 @@ def login(credentials: UserLogin, db: Session = Depends(get_db)):
             detail="Incorrect email or password"
         )
     
-    # توليد التوكينز
     access_token = create_access_token(subject=user.id)
     refresh_token = create_refresh_token(subject=user.id)
     
