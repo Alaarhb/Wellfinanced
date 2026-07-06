@@ -3,7 +3,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from .database import engine, Base
 from .routers import auth
 
-# إنشاء جداول قاعدة البيانات (SQLite) تلقائياً عند التشغيل
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
@@ -12,16 +11,14 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# تفعيل الـ CORS لتسهيل الربط مع الفرونت اند (React / Next.js / Vue إلخ)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # في الإنتاج يفضل تحديد الـ domain الخاص بالفرونت اند فقط
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# تضمين الـ routers
 app.include_router(auth.router)
 
 @app.get("/")
