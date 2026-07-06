@@ -9,12 +9,10 @@ import secrets
 
 def verify_password(plain_password: str, hashed_password: str) -> bool:
     try:
-        # التنسيق المخزن: salt:key
         salt_hex, key_hex = hashed_password.split(":")
         salt = bytes.fromhex(salt_hex)
         key = bytes.fromhex(key_hex)
         
-        # إعادة حساب الهاش للمقارنة
         new_key = hashlib.pbkdf2_hmac(
             'sha256', 
             plain_password.encode('utf-8'), 
