@@ -1,6 +1,12 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from .database import engine, Base
+from .models.user import User
+from .models.income import IncomeEntry
+from .models.expense import Expense
+from .models.debt import Debt
+from .models.account import Account
+from .models.savings_goal import SavingsGoal
 from .routers import auth
 
 Base.metadata.create_all(bind=engine)
